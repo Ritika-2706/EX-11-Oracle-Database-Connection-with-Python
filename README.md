@@ -1,5 +1,5 @@
 # EX-11-Oracle-Database-Connection-with-Python
-## Date: 31/10/23
+## Date: 
 ## AIM:
 To connect Oracle database with Python using cx_Oracle module.
 ## PROCEDURE:
